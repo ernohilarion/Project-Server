@@ -20,7 +20,7 @@
       "album": "I Want It That Way",
       "year": "1999",
       "length": 213,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b",
       "genres": [
         "pop"
       ],
@@ -33,7 +33,7 @@
       "album": "A mí me gusta",
       "year": "1992",
       "length": 248,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733a23ec636e86ddccaf1b5447",
       "genres": [
         "Flamenco",
         "Pop"
@@ -47,7 +47,7 @@
       "album": "Ave María",
       "year": "1976",
       "length": 291,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27330b09e626ccb4f8068f846b5",
       "genres": [
         "Clásica",
         "Religiosa"
@@ -56,16 +56,14 @@
       "id": 4
     },
     {
-      "title": "La Vaca Lola",
-      "artist": "Canciones Infantiles",
-      "album": "La Granja de Zenón",
-      "year": "2016",
+      "title": "Overcompensate",
+      "artist": "Twenty One Pilots",
+      "album": "Glancy",
+      "year": "2024",
       "length": 140,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
-      "genres": [
-        "Infantil"
-      ],
-      "explicit": false,
+      "cover": "https://i.scdn.co/image/ab67616d00001e028627dc62d9612fbc1e3bc5c8",
+      "genres": "Indie",
+      "explicit": "Yes",
       "id": 5
     },
     {
@@ -74,7 +72,7 @@
       "album": "ASTROWORLD",
       "year": "2018",
       "length": 312,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
       "genres": [
         "Hip Hop",
         "Rap"
@@ -88,7 +86,7 @@
       "album": "After Hours",
       "year": "2020",
       "length": 200,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://media.tenor.com/K-A090pkjI8AAAAM/honeycardi-the-weeknd.gif",
       "genres": [
         "Pop",
         "R&B"
@@ -102,43 +100,56 @@
       "album": "El Último Tour Del Mundo",
       "year": "2020",
       "length": 205,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab",
       "genres": [
         "Reguetón"
       ],
       "explicit": true,
       "id": 8
+    },
+    {
+      "title": " Perdió Este Culo",
+      "artist": " Bad Gyal",
+      "album": " La Joia",
+      "year": "2024",
+      "length": "239",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730071d93ac1b1e0770e2644f8 ",
+      "genres": "reggaeton",
+      "explicit": "Yes",
+      "id": 9
+    },
+    {
+      "title": "TITANIC",
+      "artist": "hgew;dkpek",
+      "album": "gaga",
+      "year": "2323",
+      "length": "67",
+      "cover": "https://i.blogs.es/4a9cb1/titanic/1366_2000.jpeg",
+      "genres": "rtr",
+      "explicit": "Yes",
+      "id": 10
     }
   ],
   "actions": [
     {
-      "id": 1,
-      "trackId": 1,
-      "like": false,
-      "rating": 5,
-      "comment": "Estoy obsesionado."
-    },
-    {
-      "trackId": 1,
-      "like": true,
-      "id": 2
-    },
-    {
-      "trackId": 8,
+      "trackId": 3,
       "like": true,
       "id": 3
     },
     {
-      "trackId": 1,
-      "like": false,
-      "rating": null,
-      "comment": " HolaTest",
+      "trackId": 4,
+      "like": true,
       "id": 4
     },
     {
-      "trackId": 1,
+      "trackId": 7,
       "like": true,
       "id": 5
+    },
+    {
+      "trackId": 10,
+      "like": true,
+      "id": 6
     }
   ]
 }
