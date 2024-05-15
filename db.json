@@ -1,20 +1,6 @@
 {
   "tracks": [
     {
-      "title": "Deli",
-      "artist": "Ice Spice",
-      "album": "Like...?",
-      "year": "2023",
-      "length": 180,
-      "cover": "https://assets.crownnote.com/s3fs-public/2024-04/7d8184cabc3c7713aa9dac7ae14a725b_0.jpg",
-      "genres": [
-        "HipHop",
-        "rap"
-      ],
-      "explicit": true,
-      "id": 1
-    },
-    {
       "title": "I Want It That Way",
       "artist": "BackStreet Boys",
       "album": "I Want It That Way",
@@ -22,7 +8,7 @@
       "length": 213,
       "cover": "https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b",
       "genres": [
-        "pop"
+        "cumbia"
       ],
       "explicit": false,
       "id": 2
