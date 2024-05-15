@@ -108,28 +108,6 @@
       "id": 8
     },
     {
-      "title": " Perdió Este Culo",
-      "artist": " Bad Gyal",
-      "album": " La Joia",
-      "year": "2024",
-      "length": "239",
-      "cover": "https://i.scdn.co/image/ab67616d0000b2730071d93ac1b1e0770e2644f8 ",
-      "genres": "reggaeton",
-      "explicit": "Yes",
-      "id": 9
-    },
-    {
-      "title": "TITANIC parte 2",
-      "artist": "hgew;dkpek",
-      "album": "gaga",
-      "year": "2323",
-      "length": "67",
-      "cover": "https://i.blogs.es/4a9cb1/titanic/1366_2000.jpeg",
-      "genres": "rtr",
-      "explicit": "Yes",
-      "id": 10
-    },
-    {
       "title": " Do I Wanna Know",
       "artist": "Arctic Monkeys",
       "album": "AM",
@@ -138,29 +116,297 @@
       "cover": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
       "genres": [],
       "explicit": "Yes",
+      "id": 9
+    },
+    {
+      "title": " Heladito",
+      "artist": " Kali Ushis",
+      "album": " Orquídeas",
+      "year": "2023",
+      "length": "250",
+      "cover": " https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3",
+      "genres": [
+        " Pop",
+        " Cumbia Colombiana"
+      ],
+      "explicit": "Yes",
+      "id": 10
+    },
+    {
+      "title": " Sin carné",
+      "artist": " Bad Gyal",
+      "album": " La joia",
+      "year": "2024",
+      "length": "250",
+      "cover": " https://images.genius.com/6f8b6d14c0f24407d353002406f06f3c.1000x1000x1.jpg",
+      "genres": [
+        " Pop",
+        " Cuarteto",
+        " Dembow"
+      ],
+      "explicit": "Yes",
       "id": 11
+    },
+    {
+      "title": " Feels Like Summer",
+      "artist": "Childish Gambino",
+      "album": " Summer Park",
+      "year": "2018",
+      "length": "458",
+      "cover": "https://cdns-images.dzcdn.net/images/cover/e4775889d78cbfa92cb2fd757c89a023/500x500.jpg",
+      "genres": [
+        "Pop"
+      ],
+      "explicit": "Yes",
+      "id": 12
+    },
+    {
+      "title": "CooCool",
+      "artist": "Róisín Murphy",
+      "album": "Hit Parade",
+      "year": "2023",
+      "length": "457",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6-NrMM99qrhVktQuD3ClRfWlOlmghpJ6N_IFcBzZWg&s",
+      "genres": [
+        "House"
+      ],
+      "explicit": "No",
+      "id": 13
+    },
+    {
+      "title": "Think U The Shit (Fart)",
+      "artist": "Ice Spice",
+      "album": "No Album",
+      "year": "2024",
+      "length": 0,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Ice_Spice_-_Think_U_the_Shit_%28Fart%29.jpeg/220px-Ice_Spice_-_Think_U_the_Shit_%28Fart%29.jpeg",
+      "genres": [
+        "Hip-hop",
+        "Rap"
+      ],
+      "explicit": true,
+      "id": 14
+    },
+    {
+      "title": "Double team",
+      "artist": "Double Team (feat. Brray y Anitta)",
+      "album": "Double Team",
+      "year": "2024",
+      "length": 351,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobzB2y9AGJfvn-IghN74i_mm2xbm1sqdmUEYBT6aGw&s",
+      "genres": [],
+      "explicit": true,
+      "id": 15
+    },
+    {
+      "title": "Savage funk",
+      "artist": "Anitta",
+      "album": "Double Team",
+      "year": "2024",
+      "length": 221,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTognkpVoqaIdRAXvH3Abp0ngv3Za_Oz7-D4fg-kPE4BA&s",
+      "genres": [],
+      "explicit": true,
+      "id": 16
+    },
+    {
+      "title": "Zorra",
+      "artist": "Nebulossa",
+      "album": "Zorra",
+      "year": "2024",
+      "length": 303,
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/28/f5/8728f55c-1550-3a22-9948-e6e7c55e8589/artwork.jpg/1200x1200bb.jpg",
+      "genres": [],
+      "explicit": true,
+      "id": 17
+    },
+    {
+      "title": "Despechá",
+      "artist": "Rosalía",
+      "album": "Despechá",
+      "year": "2022",
+      "length": 237,
+      "cover": "https://image.europafm.com/clipping/cmsimages02/2022/07/28/5C9F82FB-6A1E-456C-BD0E-13042249FD92/rosalia-estrena-despecha-nueva-cancion_104.jpg?crop=1432,1432,x700,y0&width=1200&height=1200&optimize=low&format=webply",
+      "genres": [],
+      "explicit": true,
+      "id": 18
+    },
+    {
+      "title": "Tuta Gold",
+      "artist": "Mahmood",
+      "album": "nei Letti Gegli Altri",
+      "year": 2024,
+      "length": 258,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/c/c2/Cover_of_Tuta_gold_single_by_Italian_singer_Mahmood_2024.png",
+      "genres": [],
+      "explicit": true,
+      "id": 19
+    },
+    {
+      "title": "Princess diana (with Nicki Minaj)",
+      "artist": "Ice Spice",
+      "album": "Princess diana (with Nicki Minaj)",
+      "year": 2023,
+      "length": 0,
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735dd17b2860b2a79d9dda8ec3",
+      "genres": [],
+      "explicit": true,
+      "id": 20
+    },
+    {
+      "title": "Houdini",
+      "artist": "Dua Lipa",
+      "album": "radical Optimism",
+      "year": 2024,
+      "length": 305,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dua_Lipa_-_Houdini.png/220px-Dua_Lipa_-_Houdini.png",
+      "genres": [],
+      "explicit": true,
+      "id": 21
+    },
+    {
+      "title": "Paint Town In Red",
+      "artist": "Doja Cat",
+      "album": "Paint Town In Red",
+      "year": 2023,
+      "length": 351,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/53/Doja_Cat_-_Paint_the_Town_Red.png",
+      "genres": [],
+      "explicit": true,
+      "id": 22
+    },
+    {
+      "title": "Texas Hold'Em",
+      "artist": "Beyoncé",
+      "album": "Texas Hold'Em",
+      "year": 2024,
+      "length": 351,
+      "cover": "https://i.scdn.co/image/ab67616d0000b2736c1836a40380c147eab9c98f",
+      "genres": [],
+      "explicit": true,
+      "id": 23
+    },
+    {
+      "title": "Im slave 4 u",
+      "artist": "Britney Spears",
+      "album": "Britney",
+      "year": 2001,
+      "length": 351,
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e64247f1dbf8412278073c80",
+      "genres": [],
+      "explicit": "Yes",
+      "id": 24
+    },
+    {
+      "title": "Bongos (ft. Megan Thee Stallion)",
+      "artist": "Cardi B",
+      "album": "Bongos",
+      "year": 2023,
+      "length": 324,
+      "cover": "https://i1.sndcdn.com/artworks-JDqboPqMVhKF-0-t500x500.jpg",
+      "genres": [],
+      "explicit": "Yes",
+      "id": 25
+    },
+    {
+      "title": "Cascara de coco",
+      "artist": "Villano Antillano",
+      "album": "La Sustancia X",
+      "year": 2022,
+      "length": 256,
+      "cover": "https://i.scdn.co/image/ab67616d0000b27360a64cc565ec07a4f24c8e95",
+      "genres": [],
+      "explicit": "Yes",
+      "id": 26
+    },
+    {
+      "title": "Villano Antillano: Bzrp Music Sessiond, Vol 51",
+      "artist": "Bizarrap",
+      "album": "Bizarrap",
+      "year": 2022,
+      "length": 307,
+      "cover": "https://i1.sndcdn.com/artworks-rEMrAfwNm3ld-0-t500x500.jpg",
+      "genres": [],
+      "explicit": "Yes",
+      "id": 27
+    },
+    {
+      "title": "Chulo",
+      "artist": "Bad Gyal",
+      "album": "Chulo",
+      "year": 2023,
+      "length": "200",
+      "cover": "https://i1.sndcdn.com/artworks-1dCIatVTzmmUqL37-bjLL0Q-t500x500.jpg",
+      "genres": [],
+      "explicit": "Yes",
+      "id": 28
+    },
+    {
+      "title": "Rush",
+      "artist": "Troye Sivan",
+      "album": "Rush",
+      "year": 2023,
+      "length": 236,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
+      "genres": [],
+      "explicit": true,
+      "id": 29
+    },
+    {
+      "title": "Rush",
+      "artist": "Troye Sivan",
+      "album": "Rush",
+      "year": 2023,
+      "length": 236,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
+      "genres": [],
+      "explicit": true,
+      "id": 30
+    },
+    {
+      "title": "Rush",
+      "artist": "Troye Sivan",
+      "album": "Rush",
+      "year": 2023,
+      "length": 236,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
+      "genres": [],
+      "explicit": true,
+      "id": 31
+    },
+    {
+      "title": "Rush",
+      "artist": "Troye Sivan",
+      "album": "Rush",
+      "year": 2023,
+      "length": 236,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
+      "genres": [],
+      "explicit": true,
+      "id": 32
     }
   ],
   "actions": [
     {
-      "trackId": 7,
-      "like": true,
-      "id": 5
+      "trackId": "1",
+      "like": false,
+      "id": 10
     },
     {
-      "trackId": 10,
-      "like": true,
-      "id": 6
+      "trackId": "20",
+      "like": false,
+      "id": 11
     },
     {
+      "trackId": "1",
+      "like": true,
+      "id": 12
+    },
+    {
+      "rating": "2",
+      "comment": "yes",
       "trackId": 1,
-      "like": true,
-      "id": 7
-    },
-    {
-      "trackId": 2,
-      "like": true,
-      "id": 8
+      "id": 13
     }
   ]
 }
