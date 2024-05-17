@@ -245,7 +245,7 @@
       "album": "radical Optimism",
       "year": 2024,
       "length": 305,
-      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Dua_Lipa_-_Houdini.png/220px-Dua_Lipa_-_Houdini.png",
+      "cover": "https://media.tenor.com/hV24m2-HR7MAAAAM/dua-lipa-houdini.gif",
       "genres": [],
       "explicit": true,
       "id": 21
@@ -339,60 +339,313 @@
       "id": 29
     },
     {
-      "title": "Rush",
-      "artist": "Troye Sivan",
-      "album": "Rush",
-      "year": 2023,
-      "length": 236,
-      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
-      "genres": [],
-      "explicit": true,
+      "title": "Save Your Tears",
+      "artist": "The Weekend",
+      "album": "After Hours",
+      "year": "2016",
+      "length": "336",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
+      "genres": [
+        " Synthwave",
+        " R&B/Soul",
+        " Música alternativa/Indie"
+      ],
+      "explicit": "Yes",
       "id": 30
     },
     {
-      "title": "Rush",
-      "artist": "Troye Sivan",
-      "album": "Rush",
-      "year": 2023,
-      "length": 236,
-      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
-      "genres": [],
-      "explicit": true,
+      "title": "(It Goes Like) Nanana - Edit",
+      "artist": "Peggy Gou",
+      "album": "Peggy Gou",
+      "year": "2020",
+      "length": "416",
+      "cover": "https://i1.sndcdn.com/artworks-7Sd8XdmpwjTj-0-t500x500.png",
+      "genres": [
+        "Dance",
+        " Música electrónica"
+      ],
+      "explicit": "No",
       "id": 31
     },
     {
-      "title": "Rush",
-      "artist": "Troye Sivan",
-      "album": "Rush",
-      "year": 2023,
-      "length": 236,
-      "cover": "https://upload.wikimedia.org/wikipedia/en/b/b4/Troye_Sivan_-_Rush.png",
-      "genres": [],
-      "explicit": true,
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "album": "Unapologetic",
+      "year": 2012,
+      "length": 229,
+      "cover": "https://i1.sndcdn.com/artworks-000037976764-51wvei-t500x500.jpg",
+      "genres": [
+        "Pop"
+      ],
+      "explicit": "Yes",
       "id": 32
+    },
+    {
+      "title": "Music",
+      "artist": "Madonna",
+      "album": "Music",
+      "year": 2000,
+      "length": 225,
+      "cover": "https://upload.wikimedia.org/wikipedia/en/2/27/Music_Madonna.png",
+      "genres": [
+        "Pop",
+        "Dance-pop"
+      ],
+      "explicit": "No",
+      "id": 33
     }
   ],
   "actions": [
-    {
-      "trackId": "1",
-      "like": false,
-      "id": 10
-    },
     {
       "trackId": "20",
       "like": false,
       "id": 11
     },
     {
-      "trackId": "1",
-      "like": true,
-      "id": 12
+      "trackId": 3,
+      "id": 14,
+      "comment": "gfgfggrgr"
+    },
+    {
+      "trackId": "11",
+      "id": 15,
+      "comment": "hola"
+    },
+    {
+      "trackId": "6",
+      "like": false,
+      "id": 17
+    },
+    {
+      "rating": "4",
+      "comment": "The vocal processing could use some refinement, especially in the ad-libs during the outro. Experiment with different EQ settings and vocal effects to make them stand out without overpowering the main vocals.",
+      "trackId": 6,
+      "id": 18
+    },
+    {
+      "rating": "3",
+      "comment": "The hi-hats in the drum pattern sound a bit dull and repetitive. Adding some variation in velocity and incorporating different hi-hat samples or patterns can make the rhythm more dynamic and engaging.",
+      "trackId": 6,
+      "id": 19
     },
     {
       "rating": "2",
-      "comment": "yes",
-      "trackId": 1,
-      "id": 13
+      "comment": "The overall mix lacks depth and dimension, particularly in the mid-range frequencies.",
+      "trackId": 6,
+      "id": 20
+    },
+    {
+      "rating": "2",
+      "comment": "Try using subtle reverb and delay effects on certain elements to create a sense of space and atmosphere, enhancing the overall sonic landscape of the track.",
+      "trackId": 6,
+      "id": 21
+    },
+    {
+      "trackId": "7",
+      "like": true,
+      "id": 22
+    },
+    {
+      "trackId": 7,
+      "id": 23,
+      "comment": "The vocal harmonies in the bridge section could be more pronounced to add depth and richness to the arrangement. Consider doubling the vocal tracks or adding subtle vocal effects to enhance their impact. "
+    },
+    {
+      "rating": "4",
+      "comment": "The synth melodies in the verses feel a bit repetitive. Adding variation in note lengths or introducing new melodic elements can keep the listener engaged and prevent the song from feeling stagnant.",
+      "trackId": 7,
+      "id": 24
+    },
+    {
+      "rating": "5",
+      "comment": "The bassline in the chorus lacks definition and could benefit from compression or saturation to add warmth and presence. Experimenting with different bass sound presets or layering techniques can help achieve a more impactful low-end.",
+      "trackId": 8,
+      "id": 26
+    },
+    {
+      "rating": "2",
+      "comment": "The transition between the verse and chorus sections feels abrupt. Incorporating a subtle fill or riser leading into the chorus can smooth out the transition and create a more cohesive flow between the different parts of the song.",
+      "trackId": 8,
+      "id": 27
+    },
+    {
+      "rating": "5",
+      "comment": "The vocal delivery feels disconnected from the instrumental. Adding subtle vocal effects like reverb or delay can help blend the vocals with the music, creating a more cohesive sonic atmosphere.",
+      "trackId": 9,
+      "id": 28
+    },
+    {
+      "rating": "2",
+      "comment": "The guitar tone lacks depth and could benefit from layering or re-amping to achieve a fuller sound. Experimenting with different amp settings or adding modulation effects can add texture.",
+      "trackId": 9,
+      "id": 29
+    },
+    {
+      "rating": "2",
+      "comment": "The bassline in \"Heladito\" could be more prominent to drive the groove forward. Adding compression and saturation can bring out its warmth and energy, enhancing the overall rhythm of the track",
+      "trackId": 10,
+      "id": 30
+    },
+    {
+      "rating": "4",
+      "comment": "The vocals could benefit from a touch of modulation effects like chorus or flanger to add depth and character. This would complement the dreamy atmosphere of the song and make the vocals stand out.",
+      "trackId": 10,
+      "id": 31
+    },
+    {
+      "rating": "5",
+      "comment": "Incorporating subtle background textures or atmospheric sounds could enrich the sonic landscape of \"Heladito\", creating a more immersive listening experience. Experimenting with ambient synths or field recordings can add depth and intrigue to the production.",
+      "trackId": 10,
+      "id": 32
+    },
+    {
+      "rating": "3",
+      "comment": "La production de \"Heladito\" est impressionnante mais pourrait bénéficier d'une plus grande diversité rythmique pour captiver l'auditeur. Ajouter des éléments percussifs subtils ou des variations de tempo pourrait ajouter de la dynamique et de l'intérêt à la chanson.",
+      "trackId": 10,
+      "id": 33
+    },
+    {
+      "rating": "4",
+      "comment": "A produção de 'Sin Carné' é cativante, mas a percussão poderia ser mais dinâmica para impulsionar o ritmo. Experimentar com diferentes padrões rítmicos e variações de groove pode adicionar uma camada extra de energia à música.",
+      "trackId": 11,
+      "id": 34
+    },
+    {
+      "rating": "2",
+      "comment": "\"Die Vocals in 'Sin Carné' könnten etwas mehr Präsenz und Durchsetzungskraft gebrauchen, um das emotionale Herzstück des Songs zu betonen. Ein Hauch von Reverb oder Delay könnte die Vocals weiter öffnen und eine intime Atmosphäre schaffen.",
+      "trackId": 11,
+      "id": 35
+    },
+    {
+      "rating": "4",
+      "comment": "The overall arrangement of 'Sin Carné' is solid, but introducing some subtle variations in the instrumentation throughout the song could add intrigue and keep the listener engaged from start to finish.",
+      "trackId": 11,
+      "id": 36
+    },
+    {
+      "trackId": "12",
+      "like": false,
+      "id": 37
+    },
+    {
+      "rating": 0,
+      "comment": "Melodía pegajosa, voces suaves, ideal para el verano.",
+      "trackId": 12,
+      "id": 38
+    },
+    {
+      "rating": 0,
+      "comment": "Mélodie accrocheuse, voix douces, parfait pour l'été.",
+      "trackId": 12,
+      "id": 39
+    },
+    {
+      "rating": "4",
+      "comment": "Cool beats, funky rhythm, Róisín's vocals shine in this groovy track.",
+      "trackId": 13,
+      "id": 40
+    },
+    {
+      "rating": "4",
+      "comment": "Ritmo funky, voces envolventes, una canción que te hace bailar.",
+      "trackId": 13,
+      "id": 41
+    },
+    {
+      "rating": "4",
+      "comment": "Coole Beats, funky Rhythmus, Róisín's Stimme strahlt in diesem groovigen Track.",
+      "trackId": 13,
+      "id": 42
+    },
+    {
+      "rating": "4",
+      "comment": "Catchy beat, playful lyrics, Ice Spice delivers a fun and lighthearted track.",
+      "trackId": 14,
+      "id": 43
+    },
+    {
+      "rating": "2",
+      "comment": "Extremamente divertida, 'Think U The Shit (Fart)' de Ice Spice é uma abordagem hilária à autoconfiança.",
+      "trackId": 14,
+      "id": 44
+    },
+    {
+      "rating": "3",
+      "comment": "Irresistibly funky, Ice Spice's 'Think U The Shit (Fart)' is a hilarious take on self-confidence.",
+      "trackId": 14,
+      "id": 45
+    },
+    {
+      "rating": "4",
+      "comment": "Catchy beat, playful lyrics, Ice Spice delivers a fun and lighthearted track.",
+      "trackId": 14,
+      "id": 46
+    },
+    {
+      "rating": "4",
+      "comment": "La producción en 'Double Team' de Double Team con Brray y Anitta es equilibrada, pero ajustar el EQ en las voces podría mejorar la claridad y presencia.",
+      "trackId": 15,
+      "id": 47
+    },
+    {
+      "rating": "4",
+      "comment": "The percussion in 'Double Team' adds energy, but fine-tuning the drum compression could provide a more cohesive rhythm throughout the track.",
+      "trackId": 15,
+      "id": 48
+    },
+    {
+      "rating": "3",
+      "comment": "La estructura de 'Savage Funk' es sólida, pero explorar efectos de delay sutiles en las voces podría añadir profundidad y textura al sonido global.",
+      "trackId": 16,
+      "id": 49
+    },
+    {
+      "rating": "4",
+      "comment": "A percussão em 'Savage Funk' traz uma vibe contagiante, mas seria interessante experimentar com diferentes timbres para adicionar mais variedade ao ritmo.",
+      "trackId": 16,
+      "id": 50
+    },
+    {
+      "rating": "4",
+      "comment": "The bassline in 'Savage Funk' delivers a solid groove, but adjusting the EQ to boost the midrange frequencies could enhance its presence in the mix.",
+      "trackId": 16,
+      "id": 51
+    },
+    {
+      "rating": "2",
+      "comment": "The sonic spectrum of 'Zorra' boasts a diverse array of synthesized textures, yet a more nuanced approach to modulation could enrich its sonic complexity. Exploring envelope shaping and filter modulation could yield a more dynamic sonic landscape.",
+      "trackId": 17,
+      "id": 52
+    },
+    {
+      "rating": "3",
+      "comment": "O espectro sonoro de 'Zorra' apresenta uma variedade diversificada de texturas sintetizadas, mas uma abordagem mais refinada à modulação poderia enriquecer sua complexidade sonora. Explorar a modelagem de envelope e a modulação de filtro poderia resultar em uma paisagem sonora mais dinâmica.",
+      "trackId": 17,
+      "id": 53
+    },
+    {
+      "rating": "4",
+      "comment": "El tratamiento de las frecuencias medias en 'Despechá' es notable, pero podría beneficiarse de una ecualización más precisa para evitar la congestión en la mezcla. Un enfoque cuidadoso en la selección de frecuencias y la compresión multibanda podría mejorar la claridad y la separación de instrumentos.",
+      "trackId": 18,
+      "id": 54
+    },
+    {
+      "rating": "2",
+      "comment": "La atmósfera sonora en 'Despechá' es cautivadora, pero se podría explorar una expansión en la profundidad espacial mediante el uso de efectos de reverberación y delay más sutiles. Experimentar con la colocación y el tiempo de los efectos podría añadir una dimensión adicional a la mezcla.",
+      "trackId": 18,
+      "id": 55
+    },
+    {
+      "rating": "5",
+      "comment": "La sección rítmica de 'Despechá' es contundente, aunque podría mejorar la presencia y definición de la percusión mediante la aplicación de técnicas de layering y processing. Experimentar con diferentes tipos de compresión y saturación podría añadir impacto y carácter a la batería.",
+      "trackId": 18,
+      "id": 56
+    },
+    {
+      "rating": 0,
+      "comment": "Cambiar Chorrus",
+      "trackId": 30,
+      "id": 57
     }
   ]
 }
